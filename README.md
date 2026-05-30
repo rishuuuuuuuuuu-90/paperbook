@@ -58,4 +58,6 @@ Carbon Black — inspired by Linear, Vercel, Raycast.
 
 ## 📜 License
 
-MIT
+PAPERbox
+
+
